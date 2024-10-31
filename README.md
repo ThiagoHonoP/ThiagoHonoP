@@ -7,12 +7,18 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://thiag01.github.io/" target="_blank"> 
-   <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=3178c6&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
+  <a href="https://thiag01.github.io/" rel="nofollow"> 
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=&color=3178c6&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=25d366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
+  <a href="https://thiag01.github.io/" rel="nofollow"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"  />
+  </a>
+  <a href="https://thiag01.github.io/" rel="nofollow"> 
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsApp&label=&color=25d366&logoColor=white&labelColor=&style=for-the-badge" alt="WhatsApp logo"  />
+  </a>
+  <a href="https://thiag01.github.io/" rel="nofollow"> 
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"  />
+  </a>
 </div>
 
 # 💻 Tech Stack:
