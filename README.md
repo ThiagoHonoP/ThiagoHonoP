@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Brazil from SP<br><br>- 🔭 Im a fullstack developer who specializes in front-end development ...<br>- 📚 Im Looking for devops culture ...<br>- ⚡ Im work on creatives designs when I have free time ...</p>
+<p align="left">I'm from São Paulo, Brazil.<br><br>- 🔭 Im a fullstack developer who specializes in front-end development ...<br>- 📚 Im Looking for devops culture ...<br>- ⚡ Im work on creatives designs when I have free time ...</p>
 
 ##
 
