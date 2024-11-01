@@ -1,8 +1,12 @@
 ## Olá! Eu sou Thiago Honorato 👋 
 
-<div align="left">
+<div align="center">
   <img src="https://i.imgur.com/QE4qZ7a.png" alt="stats graph"  />
+    <a href="https://thiag01.github.io/" rel="nofollow" style="color: red"> 
+      https://thiagohonorato.dev
+    </a>
 </div>
+
 
 ##
 
