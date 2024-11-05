@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://i.imgur.com/QE4qZ7a.png" alt="stats graph"  />
     <a href="https://thiag01.github.io/" rel="nofollow" style="color: red"> 
-      https://thiagohonorato.dev
+      thiagohonorato.vercel.app
     </a>
 </div>
 <br>
