@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://i.imgur.com/QE4qZ7a.png" alt="stats graph"  />
-    <a href="https://thiag01.github.io/" rel="nofollow" style="color: red"> 
+    <a href="https://thiagohonorato.vercel.app/" rel="nofollow" style="color: red"> 
       thiagohonorato.vercel.app
     </a>
 </div>
