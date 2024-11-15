@@ -112,6 +112,6 @@
 
 # 
 
-[![](https://visitcount.itsvg.in/api?id=ThiagoHonoP&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://api.visitorbadge.io/api/VisitorHit?ThiagoHonoP=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
