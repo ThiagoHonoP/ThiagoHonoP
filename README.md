@@ -110,8 +110,8 @@
  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 </details>
 
-# 
+##
 
-![](https://api.visitorbadge.io/api/VisitorHit?ThiagoHonoP=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
