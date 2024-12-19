@@ -4,9 +4,6 @@
      <a href="https://thiagohonorato.vercel.app/" rel="nofollow" style="color: red"> 
      <img src="https://i.imgur.com/QE4qZ7a.png" alt="stats graph"  />
      </a>
-    <a href="https://thiagohonorato.vercel.app/" rel="nofollow" style="color: red"> 
-      thiagohonorato.vercel.app
-    </a>
 </div>
 <br>
 <div align="center">
