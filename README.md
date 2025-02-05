@@ -1,4 +1,4 @@
-<h3> Olá! Eu sou Thiago Honorato 👋  </h3>
+<h3> Hey! I'm Thiago Honorato 👋  </h3>
 
 <div align="center">
      <a href="https://thiagohonorato.vercel.app/" rel="nofollow" style="color: red"> 
